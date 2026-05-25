@@ -1,0 +1,8 @@
+{
+    "name": "authroute-service",
+    "version": "1.0.296",
+    "private": false,
+    "environment": "production",
+    "build_id": 995,
+    "allow_public_access": true
+}
